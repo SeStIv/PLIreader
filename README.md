@@ -1,5 +1,5 @@
 # PLIreader
-A simple .pli files reader
+A simple .pli files reader for Abrio(tm) microbirefringence analysis system
 
 ## Usage
 The only function is 'read_pli'.
